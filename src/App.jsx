@@ -34,7 +34,7 @@ function App() {
           href="https://thecodeblog.net"
           target="_blank"
           rel="noreferrer"
-          className="text-emerald-500 font-medium"
+          className="text-emerald-500 font-medium hover:underline decoration-2"
         >
           Melvin Chia
         </a>
