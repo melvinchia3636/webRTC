@@ -21,8 +21,9 @@ function App() {
         href="https://github.com/melvinchia3636/webRTC"
         target="_blank"
         rel="noreferrer"
+        className="fixed z-[9999] top-0 right-0 w-32 h-32 sm:w-48 sm:h-48"
       >
-        <div className="fixed top-0 right-0 w-32 h-32 sm:w-48 sm:h-48 bg-emerald-500 rotate-45 translate-x-1/2 -translate-y-1/2" />
+        <div className="bg-emerald-500 rotate-45 translate-x-1/2 -translate-y-1/2 w-full h-full"></div>
         <Icon
           icon="uil:github"
           className="w-8 h-8 sm:w-10 sm:h-10 text-white absolute top-2.5 right-2.5 sm:top-5 sm:right-5"
